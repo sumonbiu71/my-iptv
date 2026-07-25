@@ -1,49 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="Wifi",T Sports
-http://172.19.17.3:8090/hls/tsportshd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Wifi",BTV HD
+http://172.19.17.4:8090/hls/BTVNationalHD.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Wifi",Jhalsha Movies
 http://172.19.17.4:8090/hls/JalshaMoviesHD.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Wifi",TnT Sports
-http://172.19.17.4:8090/hls/tntsports1hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Wifi",T Sports
+http://172.19.17.4:8090/hls/tsportshd.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Wifi",Sony Atth
-http://cdn.naturalbd.com:8083/SomoyTv/tracks-v1a1/mono.m3u8?token=f47156ae532dec078b1ad35cc5b19af6e9ee62fe-77253b88890a01d04091dfef97093c55-1784978347-1784967547
-
-#EXTINF:-1 tvg-logo="" group-title="Wifi",ATN Bangla
-http://redforce.live:8082/ATN.BANGLA.HD/tracks-v1a1/mono.m3u8?token=5e32cd7c3c0ee78dc5a70c413ca4abd885dd2ea5-feb129b122bb532e727ab8372f8771d3-1781612528-1781601728
-
-#EXTINF:-1 tvg-logo="" group-title="Wifi",A Sports
-http://172.19.17.4:8090/hls/ASportsHD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Wifi",Star Movies
+http://172.19.17.4:8090/hls/StarMoviesHD.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Wifi",Somoy TV
-http://redforce.live:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?token=f77471379dac67d5baddc34e02d3c693bb0c8e75-809d4c540e12a6340d3ebcffe510db70-1781612455-1781601655
-
-#EXTINF:-1 tvg-logo="" group-title="Wifi",DBC News
-http://redforce.live:8082/DBC.NEWS.HD/tracks-v1a1/mono.m3u8?token=fabaeb34f28b00ec05895ca7fafde22dae6fbda1-8931d8616296d71f1b00d3cfcf787103-1781610617-1781599817
-
-#EXTINF:-1 tvg-logo="" group-title="Wifi",BBC Earth
-http://redforce.live:8082/BBC.Earth.HD/tracks-v1a1/mono.m3u8?token=755767c2078846d11abfab5ef6aab1f5984745f6-09a93b1957d8d5d3cb22ae98b5456b22-1781610661-1781599861
-
-#EXTINF:-1 tvg-logo="" group-title="Wifi",Nat Geo
-http://redforce.live:8082/NATGEO.HD/tracks-v1a1/mono.m3u8?token=90afa326f807aede8fd47992dd35385ec2e7e325-08cec067872bda76739e4200f5a8f60d-1781610688-1781599888
-
-#EXTINF:-1 tvg-logo="" group-title="Wifi",Sony Max
-http://redforce.live:8082/SONY.MAX.HD/tracks-v1a1/mono.m3u8?token=df641b362c93dc8a95f0a93370ddb60f9f283040-f98f651ded99b093d56feb5c18881283-1781610737-1781599937
+http://http://172.19.17.4:8090/hls/somoytv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Wifi",Star Jalsha
 http://172.19.17.3:8090/hls/StarJalshaHD.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Wifi",Ekattor Tv
-http://redforce.live:8082/EKATTOR.TV.HD/tracks-v1a1/mono.m3u8?token=21a29b04e9f2ec0b955782e0644392339ceadc20-0beccf4700dba335c08658533cc930a2-1781602365-1781591565
+#EXTINF:-1 tvg-logo="" group-title="Wifi",Star Sports
+http://172.19.17.3:8090/hls/StarSportdSelect1HD.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Wifi",Colors Bangla
-http://redforce.live:8082/COLORS.BANGLA.HD/tracks-v1a1/mono.m3u8?token=0a4ed8e4f316922fe41b080e82c6fcf3a5d0bafb-67ef5c356ad44b81188a6dc603dac406-1781602345-1781591545
-
-#EXTINF:-1 tvg-logo="" group-title="Wifi",Zee Bangla HD
-http://redforce.live:8082/ZEE.BANGLA.HD/tracks-v1a1/mono.m3u8?token=15d6c486be8d96a2d4d9d7d1203dca90c1e06d6a-24241bdfdcf5b8e0135c0562695c1786-1781602398-1781591598
-
-#EXTINF:-1 tvg-logo="" group-title="Wifi",Duranto Tv
-http://redforce.live:8082/DURANTA.TV.HD/tracks-v1a1/mono.m3u8?token=5b13f627b609b06341bb9397850aab633e91c7de-144ea594d46b118e95718b30efb5a63d-1781602471-1781591671
+#EXTINF:-1 tvg-logo="" group-title="Wifi",Sony Max
+http://172.19.17.3:8090/hls/sonymaxhd.m3u8
