@@ -12,14 +12,11 @@ http://172.19.17.4:8090/hls/tsportshd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Wifi",Star Movies
 http://172.19.17.4:8090/hls/StarMoviesHD.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Wifi",Somoy TV
-http://http://172.19.17.4:8090/hls/somoytv.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Wifi",Star Jalsha
 http://172.19.17.3:8090/hls/StarJalshaHD.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Wifi",Star Sports
-http://172.19.17.3:8090/hls/StarSportdSelect1HD.m3u8
+http://172.19.17.3:8090/hls/StarSportsSelect1HD.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Wifi",Sony Max
 http://172.19.17.3:8090/hls/sonymaxhd.m3u8
