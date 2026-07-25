@@ -10,7 +10,7 @@ http://172.19.17.4:8090/hls/JalshaMoviesHD.m3u8
 http://172.19.17.4:8090/hls/tntsports1hd.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Wifi",Sony Atth
-http://172.19.17.3:8090/hls/SonyAtth.m3u8
+http://cdn.naturalbd.com:8083/SomoyTv/tracks-v1a1/mono.m3u8?token=f47156ae532dec078b1ad35cc5b19af6e9ee62fe-77253b88890a01d04091dfef97093c55-1784978347-1784967547
 
 #EXTINF:-1 tvg-logo="" group-title="Wifi",ATN Bangla
 http://redforce.live:8082/ATN.BANGLA.HD/tracks-v1a1/mono.m3u8?token=5e32cd7c3c0ee78dc5a70c413ca4abd885dd2ea5-feb129b122bb532e727ab8372f8771d3-1781612528-1781601728
